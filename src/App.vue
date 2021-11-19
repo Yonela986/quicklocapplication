@@ -5,6 +5,7 @@
     <div id="img">
       <img alt="logo" src="./assets/quicloc8-logo.png">
      </div>
+     <br/>
     <GoogleMap/>
   </div>
 </template>
